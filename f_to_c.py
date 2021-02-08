@@ -1,7 +1,7 @@
 """
 -------------------------------------------------------------------------------
 Name:     f_to_c.py
-Purpose:  This program lets user enter a Fahrenheit degree and convert to celsius degree.
+Purpose:  This program lets user enter a Fahrenheit degree and converts to celsius degree.
 
 Author:   Tam.S
 
